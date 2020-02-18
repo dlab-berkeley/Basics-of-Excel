@@ -4,3 +4,9 @@ This is the [D-Lab](http://dlab.berkeley.edu/) respository for The Basics of Exc
 
 These materials were authored and contributed by [Kimberly Rubens](http://dlab.berkeley.edu/consultation/kimberly-rubens).  
 
+# To get started: 
+1. Click the green "Clone or download" button
+
+2. Click "Download Zip"
+
+3. Extract this zip file to your Desktop.
